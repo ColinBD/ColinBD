@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Colin Bone Dodds 👋
 
 <!--
 **ColinBD/ColinBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a designer and developer with a PhD in Human Computer Interaction. I love all things audio; if you do too then you might like my repositories JSAudioKobs and RemixPortal. 
+
+I previously worked on [@ideafast](https://github.com/ideafast) which is a large scale research project investigating how a range of sensing devices perform in tracking symptoms of disease. I helped create automated data pipelines to move data to a central repository, helped design a data dashboard, and helped evaluate the success of each sensing device.  
+
+- 👐 Want to chat? Let's connect on [LinkedIn](https://www.linkedin.com/in/colinbonedodds/)
+
+### Technologies I like working with
+
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Express" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
+<img align="left" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
