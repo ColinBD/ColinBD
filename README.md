@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a designer and developer with a PhD in Human Computer Interaction. I love all things audio; if you do too then you might like my repositories JSAudioKobs and RemixPortal. 
+I'm a designer and software developer with a PhD in human-computer interaction. I love making things and I have a particular interest in all things audio; if you do too then you might like my repositories JSAudioKobs and RemixPortal. 
 
-I previously worked on [@ideafast](https://github.com/ideafast) which is a large scale research project investigating how a range of sensing devices perform in tracking symptoms of disease. I helped create automated data pipelines to move data to a central repository, helped design a data dashboard, and helped evaluate the success of each sensing device.  
+I previously worked on [@ideafast](https://github.com/ideafast) which is a large-scale research project investigating how a range of sensing devices perform in tracking symptoms of disease. My work involved creating automated data pipelines to move data to a central repository, designing a data dashboard to enable clinicians to monitor data collection, and evaluating the performance each sensing device. I also led on the design of a participant support system.  
 
 - 👐 Want to chat? Let's connect on [LinkedIn](https://www.linkedin.com/in/colinbonedodds/)
 
